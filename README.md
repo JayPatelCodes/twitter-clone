@@ -32,10 +32,6 @@ The Twitter Clone is designed as a full-stack web application that replicates th
 
 Follow the steps below to set up and run the project locally:
 
-## Installation
-
-Follow the steps below to set up and run the project locally:
-
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/JayPatelCodes/twitter-clone.git
